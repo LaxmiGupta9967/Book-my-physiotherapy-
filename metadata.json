@@ -1,0 +1,7 @@
+{
+  "name": "BookMyPhysiotherapy",
+  "description": "An online platform to connect patients with certified physiotherapists, allowing for easy search, profile viewing, and appointment booking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
