@@ -14,7 +14,7 @@ const Footer: React.FC<FooterProps> = ({ onFindTherapistClick, onAboutClick, onF
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 text-center sm:text-left">
           <div>
             <img 
-              src="https://i.postimg.cc/fbGcxrk9/Whats-App-Image-2025-12-03-at-3-02-17-PM.jpg"
+              src="https://i.postimg.cc/GpYLrkHH/Whats-App-Image-2025-12-04-at-12-06-09-PM.jpg"
               alt="BookMyPhysiotherapy Logo"
               className="h-16 mb-4 mx-auto sm:mx-0"
             />

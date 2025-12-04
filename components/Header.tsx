@@ -44,7 +44,7 @@ const Header: React.FC<HeaderProps> = ({ onLogoClick, currentUser, onLoginClick,
           aria-label="Go to homepage"
         >
           <img 
-            src="https://i.postimg.cc/fbGcxrk9/Whats-App-Image-2025-12-03-at-3-02-17-PM.jpg"
+            src="https://i.postimg.cc/GpYLrkHH/Whats-App-Image-2025-12-04-at-12-06-09-PM.jpg"
             alt="BookMyPhysiotherapy Logo"
             className={`w-auto transition-all duration-300 ${isScrolled ? 'h-10 md:h-12' : 'h-12 md:h-16'}`}
           />
